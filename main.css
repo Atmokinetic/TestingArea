@@ -1,8 +1,7 @@
-.title .background {
-  background-color: #222;
-}
-.title .titletext {
+
+.title {
   color: white;
   font-align: center;
   font-size: 15px;
+  background-color: #222;
 }
