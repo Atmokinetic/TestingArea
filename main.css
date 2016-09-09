@@ -54,6 +54,7 @@
   .welcome {
     float: left;
     background-color: #777;
-    width: 100%;
+    width: 30%;
     height: 100px;
+    display: inline-block;
   }
