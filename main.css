@@ -21,3 +21,10 @@
   .nav ul li a {
     color: white;
   }
+  .leftbar {
+    background-color: black;
+    position: fixed;
+    left: 0;
+    top: 185px;
+    width: 24px;
+  }
