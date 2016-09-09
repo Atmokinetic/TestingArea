@@ -11,12 +11,8 @@
     list-style-type: none;
     display: inline-block;
     background-color: #444;
-    color: #559;
-    float: top;
+    color: #339;
     text-align: left;
     margin: 0px;
     padding: 10px;
-  }
-  .nav li a {
-    color: white;
   }
