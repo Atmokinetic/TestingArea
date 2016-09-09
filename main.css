@@ -61,3 +61,9 @@
   .bold {
     font-weight: bold;
   }
+  .mainpart {
+    display: inline-block;
+    background-color: #666;
+    width: 70% - 24px;
+    height: 100%;
+  }
