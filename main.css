@@ -58,3 +58,6 @@
     height: 300px;
     display: inline-block;
   }
+  .bold {
+    font-weight: bold;
+  }
