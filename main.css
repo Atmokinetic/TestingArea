@@ -37,3 +37,10 @@
     height: 100%;
     width: 24px;
   }
+  .bottombar {
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 24px;
+  }
